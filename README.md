@@ -25,29 +25,26 @@ pip install -r requirements.txt
 ```
 
 
-## Estructura del proyecto
+### Estructura del Proyecto
 
-```
-
-proyecto-limpieza-texto/
-```
+```text
 │
 ├── data/
-│   ├── df_tota.csv/              # Datos originales
+│   └── df_tota.csv       # Datos originales
 │   
-│
 ├── notebooks/            # Exploración y pruebas
 │
 ├── src/
 │   ├── __init__.py       
-│   └── load_data.py   
-│   └── embeddings.py 
-│   └── index.py 
+│   ├── load_data.py   
+│   ├── embeddings.py 
+│   ├── index.py 
 │   └── search.py 
 │
 ├── main.py               # Script principal
 ├── requirements.txt
 └── README.md
+
 
 ```
 
