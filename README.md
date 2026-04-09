@@ -28,8 +28,9 @@ pip install -r requirements.txt
 ## Estructura del proyecto
 
 ```
-```
+
 proyecto-limpieza-texto/
+```
 │
 ├── data/
 │   ├── df_tota.csv/              # Datos originales
@@ -47,6 +48,7 @@ proyecto-limpieza-texto/
 ├── main.py               # Script principal
 ├── requirements.txt
 └── README.md
+
 ```
 
 ---
