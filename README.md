@@ -14,7 +14,7 @@ Preparar textos en embeddings para usarlos con FAISS en una búsqueda eficiente 
 Clona el repositorio:
 
 ```bash
-git clone https://github.com/Alonsohaifish/busqueda-semantica-espanol.git
+gh repo clone Alonsohaifish/busqueda-semantica-espanol
 cd proyecto-limpieza-texto
 ```
 
