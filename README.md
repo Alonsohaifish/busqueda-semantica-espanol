@@ -28,6 +28,7 @@ pip install -r requirements.txt
 ## Estructura del proyecto
 
 ```
+```
 proyecto-limpieza-texto/
 │
 ├── data/
